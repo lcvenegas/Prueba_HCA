@@ -1,2 +1,2 @@
 # Prueba_HCA
- Haciendo ciencia abierta
+ Repositorio Haciendo ciencia abierta
